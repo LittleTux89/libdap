@@ -4,6 +4,6 @@
 #include "stdbool.h"
 #include "stdlib.h"
 #include "stdio.h"
-#include "limits.h"
+#include "string.h"
 
 extern void dap_common_test_run(void);
